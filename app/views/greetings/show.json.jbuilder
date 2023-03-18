@@ -1,1 +1,1 @@
-json.partial! "greetings/greeting", greeting: @greeting
+json.partial! 'greetings/greeting', greeting: @greeting
